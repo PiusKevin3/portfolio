@@ -15,8 +15,8 @@
       "state":"Entebbe",
       "zip": "P.O. Box 10"
     },
-    "website": "https://bitly/piuskevin3",
-    "resumedownload":"https://bitly/piuskevin3",
+    "website": "https://piuskevin3.github.io/portfolio/",
+    "resumedownload":"https://piuskevin3.github.io/portfolio/",
     "social":[
       {
         "name":"facebook",
@@ -125,7 +125,7 @@
         "title":"My Portfolio site",
         "category":"Portfolio",
         "image":"my portfolio screenshot.png",
-        "url":"https://bitly/piuskevin3"
+        "url":"https://piuskevin3.github.io/portfolio/"
       },
       {
         "title":"Verification System",
